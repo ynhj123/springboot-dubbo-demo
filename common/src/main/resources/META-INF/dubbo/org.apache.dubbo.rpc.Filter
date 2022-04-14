@@ -1,0 +1,2 @@
+consumerFilter=com.dubboDemo.ConsumerFilter
+producerFilter=com.dubboDemo.ProducerFilter
